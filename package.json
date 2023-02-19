@@ -1,0 +1,33 @@
+{
+  "name": "ajs-matchers",
+  "version": "1.0.0",
+  "description": "homework number 2 matchers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakanawaYuku/ajs-matchers.git"
+  },
+  "author": "TakanawaYuku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakanawaYuku/ajs-matchers/issues"
+  },
+  "homepage": "https://github.com/TakanawaYuku/ajs-matchers#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "esquery": "^1.4.2",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "core-js": "^3.28.0"
+  }
+}
